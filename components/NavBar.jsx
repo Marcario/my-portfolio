@@ -4,7 +4,7 @@ import Image from "next/image";
 
 function NavBar() {
   return (
-    <div className="bg-slate-500 h-20 w-full mx-auto px-8 flex items-center justify-between sticky top-0 z-30">
+    <div className="bg-slate-500 h-20 w-full mx-auto px-8 md:flex-row flex flex-col items-center justify-between sticky top-0 z-30">
       <div className="flex items-center">
         <Image src="/images/logo.png" width={100} height={100} />
         <div className="ml-4 flex">
