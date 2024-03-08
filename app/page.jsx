@@ -1,4 +1,5 @@
 import AboutMe from "@/components/AboutMe";
+import Contact from "@/components/Contact";
 import Homepage from "@/components/Homepage";
 import NavBar from "@/components/NavBar";
 import Projects from "@/components/Projects";
@@ -11,6 +12,7 @@ function page() {
       <Homepage />
       <AboutMe />
       <Projects />
+      <Contact />
     </div>
   );
 }
