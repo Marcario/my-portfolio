@@ -37,7 +37,7 @@ function AboutMe() {
         HTML, CSS, Javascript and React as well as design software such as Adobe
         Photoshop and Illustrator
       </span>
-      <div className=" mx-6 w-full max-w-80">
+      <div className=" mx-6 w-full max-w-[800px]">
         {skillsData.map((skill) => (
           <div
             key={skill.id}

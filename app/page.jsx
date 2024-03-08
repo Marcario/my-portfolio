@@ -1,6 +1,7 @@
 import AboutMe from "@/components/AboutMe";
 import Homepage from "@/components/Homepage";
 import NavBar from "@/components/NavBar";
+import Projects from "@/components/Projects";
 import React from "react";
 
 function page() {
@@ -9,6 +10,7 @@ function page() {
       <NavBar />
       <Homepage />
       <AboutMe />
+      <Projects />
     </div>
   );
 }
