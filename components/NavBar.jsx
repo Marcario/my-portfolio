@@ -1,17 +1,13 @@
 import React from "react";
 import { Contact, MessageSquare } from "lucide-react";
 import Image from "next/image";
+import imageEl from "../public/images/logo.png";
 
 function NavBar() {
   return (
     <div className="bg-slate-500 flex justify-between py-3 px-4">
       <div className="flex items-center">
-        <Image
-          src="./images/logo.png "
-          className="w-10 h-8"
-          width={1080}
-          height={1080}
-        />
+        <Image src={imageEl} className="w-10 h-8" width={1080} height={1080} />
       </div>
       <div className="flex">
         <a
