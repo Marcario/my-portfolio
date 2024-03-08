@@ -5,49 +5,49 @@ function Projects() {
   const projects = [
     {
       id: 1,
-      title: "Project 1",
+      title: "Personal Portfolio Website",
       description:
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusamus, consequatur?",
+        "Designed and developed a personal portfolio website to showcase skills, projects, and achievements. Implemented a clean and minimalist design with intuitive navigation to provide visitors with a comprehensive overview of professional expertise and accomplishmentsLorem ipsum dolor sit amet consectetur adipisicing elit. Accusamus, consequatur?",
       imageSrc: "/images/portifolio.PNG",
       imageAlt: "Project 1 Image",
     },
     {
       id: 2,
-      title: "Project 2",
+      title: "Restaurant Menu Management System",
       description:
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusamus, consequatur?",
+        "Developed a comprehensive menu management system for restaurants to streamline menu updates, inventory tracking, and order processing. Integrated with POS systems for efficient operations.",
       imageSrc: "/images/menu.PNG",
       imageAlt: "Project 2 Image",
     },
     {
       id: 3,
-      title: "Project 3",
+      title: "Contact Management Application",
       description:
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusamus, consequatur?",
+        " Built a robust contact management application for organizing contacts, scheduling meetings, and tracking communications. Implemented features such as tagging, search, and reminders for enhanced productivity.",
       imageSrc: "/images/contact-manage.PNG",
       imageAlt: "Project 3 Image",
     },
     {
       id: 4,
-      title: "Project 3",
+      title: "Customer Relationship Management (CRM) System",
       description:
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusamus, consequatur?",
+        "Designed and developed a CRM system for businesses to manage customer interactions, track sales opportunities, and analyze customer data. Customizable dashboards and reporting for actionable insights.",
       imageSrc: "/images/contact.PNG",
       imageAlt: "Project 3 Image",
     },
     {
       id: 5,
-      title: "Project 3",
+      title: "Mobile App Prototype",
       description:
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusamus, consequatur?",
+        "Created a prototype for a mobile application that offers real-time weather updates and personalized recommendations. Implemented geolocation and weather APIs for accurate forecasts.",
       imageSrc: "/images/menu.PNG",
       imageAlt: "Project 3 Image",
     },
     {
       id: 6,
-      title: "Project 3",
+      title: "Travel Photography Portfolio",
       description:
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusamus, consequatur?",
+        "Curated a stunning portfolio showcasing travel photography from around the world. Highlighted unique landscapes, cultures, and moments captured during various expeditions.",
       imageSrc: "/images/image3.jpg",
       imageAlt: "Project 3 Image",
     },
