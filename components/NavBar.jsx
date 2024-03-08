@@ -29,7 +29,7 @@ function NavBar() {
           Portfolio
         </a>
         <a
-          href="#skills"
+          href="#projects"
           className="text-black hover:text-black hover:border-yellow-500 border-b-3 border-transparent transition-all duration-300 ease-in-out mr-4"
         >
           Skills

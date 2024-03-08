@@ -8,7 +8,7 @@ function Projects() {
       title: "Project 1",
       description:
         "Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusamus, consequatur?",
-      imageSrc: "/images/image3.jpg",
+      imageSrc: "/images/portifolio.PNG",
       imageAlt: "Project 1 Image",
     },
     {
@@ -16,7 +16,7 @@ function Projects() {
       title: "Project 2",
       description:
         "Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusamus, consequatur?",
-      imageSrc: "/images/image3.jpg",
+      imageSrc: "/images/menu.PNG",
       imageAlt: "Project 2 Image",
     },
     {
@@ -24,7 +24,7 @@ function Projects() {
       title: "Project 3",
       description:
         "Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusamus, consequatur?",
-      imageSrc: "/images/image3.jpg",
+      imageSrc: "/images/contact-manage.PNG",
       imageAlt: "Project 3 Image",
     },
     {
@@ -32,7 +32,7 @@ function Projects() {
       title: "Project 3",
       description:
         "Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusamus, consequatur?",
-      imageSrc: "/images/image3.jpg",
+      imageSrc: "/images/contact.PNG",
       imageAlt: "Project 3 Image",
     },
     {
@@ -40,7 +40,7 @@ function Projects() {
       title: "Project 3",
       description:
         "Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusamus, consequatur?",
-      imageSrc: "/images/image3.jpg",
+      imageSrc: "/images/menu.PNG",
       imageAlt: "Project 3 Image",
     },
     {

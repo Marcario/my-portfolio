@@ -47,9 +47,7 @@ export default function Homepage() {
             </p>
             <div className="flex gap-4 w-5">
               <a href="">{/* <Github /> */}</a>
-              <a href="">
-                <Linkedin />
-              </a>
+              <a href="">{/* <Linkedin /> */}</a>
               <a href="">{/* <Instagram /> */}</a>
             </div>
             <button
