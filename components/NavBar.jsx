@@ -7,7 +7,7 @@ function NavBar() {
     <div className="bg-slate-500 flex justify-between py-3 px-4">
       <div className="flex items-center">
         <Image
-          src="/images/logo.png "
+          src="./images/logo.png "
           className="w-10 h-8"
           width={1080}
           height={1080}
@@ -39,7 +39,7 @@ function NavBar() {
           Skills
         </a>
       </div>
-      <button className="bg-white flex items-center py-1 px-2 rounded-md gap-2 text-black rounded-full ">
+      <button className="bg-white flex items-center py-1 px-2  gap-2 text-black rounded-full ">
         <MessageSquare />
         Contact Me
       </button>
